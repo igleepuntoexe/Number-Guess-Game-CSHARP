@@ -1,0 +1,8 @@
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\bin\Debug\GuessTheNumberCSharp.exe.config
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\bin\Debug\GuessTheNumberCSharp.exe
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\bin\Debug\GuessTheNumberCSharp.pdb
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\obj\Debug\GuessTheNumberCSharp.csproj.AssemblyReference.cache
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\obj\Debug\GuessTheNumberCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\obj\Debug\GuessTheNumberCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\obj\Debug\GuessTheNumberCSharp.exe
+C:\Users\adrii\Desktop\GuessTheNumberCSharp\GuessTheNumberCSharp\obj\Debug\GuessTheNumberCSharp.pdb
